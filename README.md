@@ -9,7 +9,7 @@ specialized LLM prompts** (parse, critique, explain). The system ships with
 **standalone test harness** that proves measurable improvement from each AI
 component.
 
-> **Loom walkthrough:** _add link here after recording_
+> **Loom walkthrough:** <https://www.loom.com/share/267ab05e0e6e4b44ae70d03ea85c0e68>
 
 ---
 
