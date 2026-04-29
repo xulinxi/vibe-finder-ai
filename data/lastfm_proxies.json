@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "purpose": "Maps each fictional catalog artist to a real-world proxy with matching style. Used by lastfm.py to look up similar artists on Last.fm and validate against collaborative filtering ground truth.",
+    "method": "Proxies chosen by genre + mood + energy/valence alignment. They are not perfect doubles but produce comparable similarity neighborhoods on Last.fm."
+  },
+  "Neon Echo": "The Weeknd",
+  "LoRoom": "Nujabes",
+  "Voltline": "Royal Blood",
+  "Paper Lanterns": "Jinsang",
+  "Max Pulse": "Dua Lipa",
+  "Orbit Bloom": "Tycho",
+  "Slow Stereo": "Norah Jones",
+  "Indigo Parade": "Vampire Weekend",
+  "Bass Cathedral": "Travis Scott",
+  "Pale Moon": "Bon Iver",
+  "Chromavolt": "Daft Punk",
+  "Rusty Strings": "B.B. King",
+  "Iron Cascade": "Metallica",
+  "Saffron Sky": "Frank Ocean",
+  "Los Brillantes": "Bad Bunny",
+  "Hollow Strings": "Max Richter",
+  "ByteWave": "Avicii",
+  "The Drifters": "Kacey Musgraves"
+}
